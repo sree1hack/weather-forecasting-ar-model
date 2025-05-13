@@ -3,22 +3,6 @@
 This project demonstrates weather forecasting using Autoregressive (AR) time series models. The model is trained on historical weather data to predict future weather parameters such as temperature, humidity, and more.
 
 ---
-#project structure
-
-weather-forecasting-ar-model
-│
-└── 66.Weather Forecasting using Autoregressive models/
-    ├── 66.Weather Forecasting using Autoregressive models.docx        ←  Another version detailed Documentation
-    ├── Weather Forecasting Using Auto Regressive Model.docx           ← Documentation                               
-    └── WeatherForecast/                                                    ← Main project folder
-       ├── Dataset/
-           ├── testData.csv
-           └── weather_data.csv
-       ├── DatasetLink.txt
-       ├── Weather Forecasting Using Autoregressive Models.docx
-       ├── main.py
-       ├── requirements.txt
-       └── run.bat
 
 ## Implementation
 Download all the files in the same order as above.
