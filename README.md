@@ -20,16 +20,3 @@ Download all the files in the same order as above.
 - to get more info about the entire project please read the 66.Weather Forecasting using Autoregressive models.docx present in the 66.Weather Forecasting using Autoregressive models/ folder
 - To know more about the process of the project i.e, the steps followed please refer  Weather Forecasting Using Auto Regressive Model.docx file present in 66.Weather Forecasting using Autoregressive models/ folder
 
-##Project Strucuture
-66.Weather Forecasting using Autoregressive models/
-      |-WeatherForecast
-             |-Dataset
-                  |-testData.csv
-                  |-testData.csv
-             |- DatasetLink.txt
-             |- Weather Forecasting Using Autoregressive Models.docx
-             |- main.py
-             |-requirements.txt
-             |-run.bat
-      |-66.Weather Forecasting using Autoregressive models.docx
-      |-Weather Forecasting using Autoregressive models.docx
