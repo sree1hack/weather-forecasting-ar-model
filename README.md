@@ -22,9 +22,13 @@ weather-forecasting-ar-model
 
 ## Implementation
 Download all the files in the same order as above.
+
 -install the python latest version
--install the dependencies by runnig the requirements.txt
+
+-install the dependencies by runnig the requirements.txt use pip install -r requirements.txt command
+
 -Then run or double click on the run.bat file 
+
 - A application will open
 - To run the application successfully follow the steps provided in the Weather Forecasting Using Autoregressive Models.docx file in the path weather-forecasting-ar-model/66.Weather Forecasting using Autoregressive models
 /WeatherForecast/
